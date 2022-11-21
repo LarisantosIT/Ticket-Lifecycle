@@ -51,4 +51,15 @@ I also asigned it to agent Tom Baker whom is part of of the support team
 <img src="https://i.imgur.com/DD3ybzA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+  
+  In this next example Gina is creating a ticket under the help topic of "General Inquiry" because she is just looking for a tracking number
+  
+  <img src="https://i.imgur.com/SyiGI1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+The priorty level is set to normal and assigned to Karen whom is part of the support team
+  
+  <img src="https://i.imgur.com/UqeHw9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
