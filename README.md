@@ -27,26 +27,28 @@ This tutorial demonstrates the creation of tickets as an end user .<br />
 </p>
 </p>
 <p>
-Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
+James is creating a ticket, the help topic is "Report a problem" because a printer is not working. 
 </p>
-<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-<p>
-</p>
-<p>
-Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
+<img src="https://i.imgur.com/lCzEC95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/ISfE0G7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
+As a queue manager I am able to see all tickets and assign them to the appropoiate agents as well a set the priorirty
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AUCQe7s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this example you will notice that I set the priorty level to high and described why
+
+I also asigned it to agent Tom Baker whom is part of of the support team
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DD3ybzA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
