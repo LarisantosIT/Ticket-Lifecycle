@@ -21,7 +21,7 @@
 
 <h2>osTicket - LifeCycle Examples Setup</h2>
 </p>
-This tutorial demonstrates the creation of tickets as an end user .<br />
+This tutorial demonstrates the creation of tickets as an end user and ticket assignments as a queue manager<br />
 
 </p>
 </p>
