@@ -10,14 +10,12 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
 
 <h2>osTicket - LifeCycle Examples Setup</h2>
 </p>
